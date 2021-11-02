@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bBdlnb/l6mYKPrjCV/oc6NZl5f7pA+hxl2fHcaxJe/EROnCUmIY09SIMIpT+9tgRwKMpz7eji+OMvST7dWt26A==",
+  "dgSpecHash": "yqCwWqk7spY5ScB9lKQoaALPt5w+ZFI7jNB6tcbar3100PntDuf9t1mYXqKzsz5SLpATRdTGHmKWC6rG4wvcMQ==",
   "success": true,
   "projectFilePath": "D:\\C# và BE\\Entity\\One\\One\\One.csproj",
   "expectedPackageFiles": [
@@ -100,7 +100,8 @@
     "C:\\Users\\DUNG_PC\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\DUNG_PC\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\DUNG_PC\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\DUNG_PC\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\DUNG_PC\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\DUNG_PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
   ],
   "logs": []
 }
