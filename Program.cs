@@ -8,6 +8,7 @@ namespace One
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Đây là 1 con mèo");
+            Console.WriteLine("Thêm 1 c3");
         }
     }
 }
