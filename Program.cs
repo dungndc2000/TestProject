@@ -7,6 +7,7 @@ namespace One
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Đây là 1 con mèo");
         }
     }
 }
